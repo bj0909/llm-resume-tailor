@@ -1,0 +1,31 @@
+Junior Data Analyst
+
+About Sample_Company:
+
+Sample_Company is a data-focused consulting firm that provides business intelligence solutions across industries such as retail, healthcare, and finance. We are seeking a detail-oriented Junior Data Analyst to join our analytics team.
+
+Responsibilities
+- Collect, clean, and analyze structured and unstructured datasets from multiple sources.
+- Build and maintain dashboards and reports to support decision-making.
+- Use statistical techniques and visualization to uncover trends and business insights.
+- Translate business needs into data-driven solutions in collaboration with stakeholders.
+- Present findings clearly through reports and presentations.
+
+Qualifications
+- Strong SQL skills for querying and data wrangling.
+- Proficiency in visualization tools like Tableau, Power BI, or similar.
+- Advanced Excel capabilities (e.g., pivot tables, formulas, charts).
+- Familiarity with Python or R for analysis.
+- Solid understanding of statistics and data preparation.
+- Bachelor’s degree in a quantitative field (e.g., Statistics, Math, Computer Science).
+
+Preferred
+- Experience with cloud data platforms (e.g., AWS, GCP).
+- Knowledge of A/B testing, regression models, or basic machine learning.
+- Effective communication and teamwork skills.
+
+Why Join Us?
+- Real-world analytics challenges.
+- Supportive and learning-focused environment.
+- Career growth opportunities in data science.
+- Competitive compensation and hybrid work setup.

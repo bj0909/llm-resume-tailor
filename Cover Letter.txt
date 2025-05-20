@@ -1,0 +1,48 @@
+\documentclass[a4paper,10pt]{letter}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{John Doe}}\\
+    \vspace{2pt}
+    (123) 456-7890 \\
+    \href{mailto:johndoe@email.com}{johndoe@email.com} \\
+    \href{https://www.linkedin.com/in/johndoe}{linkedin.com/in/johndoe} \\
+    \href{https://www.github.com/johndoe}{github.com/johndoe}
+\end{center}
+
+\vspace{10pt}
+
+\begin{flushleft}
+[Today’s Date] \\
+\vspace{10pt}
+[Recipient Name] \\
+[Company Name] \\
+[Company Address] \\
+[City, State ZIP Code] \\
+\end{flushleft}
+
+\vspace{10pt}
+
+Dear [Hiring Manager/Recipient Name],
+
+\vspace{10pt}
+
+I am writing to express my interest in opportunities at [Company Name]. I am a recent graduate with a Master of Science in Computer Science from ABC University and a strong background in software development, machine learning, and artificial intelligence. I believe my academic experience and hands-on project work make me a strong candidate for roles in software engineering, machine learning, or data science.
+
+During my master’s program, I developed multiple projects that allowed me to apply advanced concepts in real-world scenarios. Notably, I implemented a Deep Q-Network (DQN) model to train AI agents for reinforcement learning tasks and created a YOLO-based object detection system with high accuracy. Additionally, I designed an AI-powered chatbot utilizing TensorFlow and deployed it using Docker and REST APIs. My bachelor’s coursework also included building a recommendation system, designing relational databases, and applying machine learning techniques for stock price prediction.
+
+Furthermore, my internship at Tech Solutions Inc. provided me with practical industry experience where I developed RESTful APIs, optimized database queries, and improved application performance. This experience honed my problem-solving skills and reinforced my ability to collaborate effectively in a team environment.
+
+I am eager to bring my skills and enthusiasm to [Company Name] and contribute to your team’s success. I would welcome the opportunity to discuss how my background aligns with your needs. Thank you for your time and consideration.
+
+\vspace{10pt}
+
+Sincerely, \\
+John Doe
+
+\end{document}
